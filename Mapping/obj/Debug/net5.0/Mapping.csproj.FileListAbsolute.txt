@@ -1,0 +1,5 @@
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.csprojAssemblyReference.cache
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.AssemblyInfoInputs.cache
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.AssemblyInfo.cs
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.csproj.CoreCompileInputs.cache
