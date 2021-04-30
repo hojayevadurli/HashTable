@@ -3,3 +3,14 @@ C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.GeneratedMS
 C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.AssemblyInfoInputs.cache
 C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.AssemblyInfo.cs
 C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.csproj.CoreCompileInputs.cache
+C:\Users\hojay\source\repos\Mapping\Mapping\bin\Debug\net5.0\Mapping.exe
+C:\Users\hojay\source\repos\Mapping\Mapping\bin\Debug\net5.0\Mapping.deps.json
+C:\Users\hojay\source\repos\Mapping\Mapping\bin\Debug\net5.0\Mapping.runtimeconfig.json
+C:\Users\hojay\source\repos\Mapping\Mapping\bin\Debug\net5.0\Mapping.runtimeconfig.dev.json
+C:\Users\hojay\source\repos\Mapping\Mapping\bin\Debug\net5.0\Mapping.dll
+C:\Users\hojay\source\repos\Mapping\Mapping\bin\Debug\net5.0\ref\Mapping.dll
+C:\Users\hojay\source\repos\Mapping\Mapping\bin\Debug\net5.0\Mapping.pdb
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.dll
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\ref\Mapping.dll
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.pdb
+C:\Users\hojay\source\repos\Mapping\Mapping\obj\Debug\net5.0\Mapping.genruntimeconfig.cache

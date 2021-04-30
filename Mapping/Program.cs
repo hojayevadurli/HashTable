@@ -10,8 +10,9 @@ namespace Mapping
             int id;
             string name;
             double gpa;
-
-            StudentData data = new StudentData();
+            //generic type key to get the key from the user
+           // K key;
+           /// StudentData data = new StudentData();
 
 
             //get the  student id
@@ -22,8 +23,10 @@ namespace Mapping
 
             Student student = new Student(id, name, gpa);
 
-            data.Put(student);
+            //data.Put(student);
 
+
+            
         }
     }
 }
