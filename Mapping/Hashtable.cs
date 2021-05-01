@@ -31,7 +31,7 @@ namespace Mapping
 
            
             //Add student to by name 
-            ByName.Put(student.name, student);
+           ByName.Put(student.name, student);
 
             //Add student to By Id
             ByID.Put(student.id, student);
