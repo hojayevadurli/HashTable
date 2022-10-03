@@ -5,7 +5,7 @@ namespace Mapping
     class Program
     {
         static void Main(string[] args)
-        {
+        {   // This is the basic hashtable project
             Console.WriteLine("Hello World!");
             int id;
             string name;

@@ -10,7 +10,7 @@ namespace Mapping
     class Hashmap<K, V>
     {
 
-
+        // Hash map Implementation
         //ArrayList of LinkedLists with Tuple inside
         public List<LinkedList<Tuple<K, V>>> table;
         public Hashmap(int size = 100)
